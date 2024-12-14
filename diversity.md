@@ -1,6 +1,6 @@
 # Diversity, Equality and Non-Discrimination
 
-> No one should be excluded from, denied the benefits of, or be subjected to discrimination under and program or activity of the New England Wireless and Steam Museum
+> No one should be excluded from, denied the benefits of, or be subjected to discrimination under any program or activity of the New England Wireless and Steam Museum
 
 1. Principals
    NEWSM values and respects the diversity of its visitors, members, staff, and volunteers and is committed to:
