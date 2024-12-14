@@ -9,9 +9,9 @@
    - Acting in accordance with the legislation and codes of practice which relate to the diversity and equality of its audiences and staff; and
    - Taking account of the views of its audiences and staff to develop and implement diversity and equality as part of future programs
 2. Protected Statuses
-   The NEWSM recognises the following status as protected under Federal and Rhode Island law:
+   The NEWSM recognises the following status as protected under Federal and Rhode Island Law:
    - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, and Gender Identity or Expression
-     Thew NEWSM further recognises the following status as protected under Rhode I
+     Thew NEWSM further recognises the following status as also protected under Rhode Island Employment Law:
 
 ### Title II Of The Civil Rights Act (Public Accommodations)
 
