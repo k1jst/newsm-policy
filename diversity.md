@@ -1,4 +1,4 @@
-# Diversity, Equality and Non-Discrimination
+# Diversity, Equality, Accessibility and Inlcusion Non-Discrimination
 
 > No one should be excluded from, denied the benefits of, or be subjected to discrimination under, any program or activity of the New England Wireless and Steam Museum.
 
