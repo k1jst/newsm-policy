@@ -16,3 +16,5 @@ No person, being the owner, lessee, proprietor, manager, superintendent, agent, 
 RI Gen L § 42-87-3. (2023)
 
 **§ 42-87-2. Discrimination prohibited.**
+
+No otherwise qualified person with a disability shall, solely by reason of the person’s disability, be subject to discrimination by any person or entity doing business in the state; nor shall any otherwise qualified person with a disability be excluded from participation in or denied the benefits of any program, activity, or service of, or, by any person or entity regulated, by the state or having received financial assistance from the state or under any program or activity conducted by the state, its agents, or any entity doing business with the state.
