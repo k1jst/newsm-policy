@@ -15,7 +15,7 @@
 3. Assurance and Review
    The Directors require that the Executive Director, Lead Volunteers, Managers and Supervisors take steps to ensure that this policy is observed by all staff and volunteers in the course of their activities. This policy document will be reviewed from time to time and at least once every five years.
 
-Diversity, inclusion, and equal access have been, and will continue to be, fundamental principles at The Wireless and Steam Museum, where access to the Museum's facilities, collection, opportunities, and experiences are offered without regard to personal characteristics such as race, color, religion, sex, age, national origin, disability, pregnancy, genetic information, military or veteran status, sexual orientation, gender, gender identity or expression, marital and civil partnership/union status, or other characteristics protected by law.
+Diversity, inclusion, and equal access have been, and will continue to be, fundamental principles at The Wireless and Steam Museum, where access to the Museum's facilities, collection, opportunities, and experiences are offered without regard to personal characteristics such as race, color, religion, sex, age, national origin, disability, pregnancy, military or veteran status, sexual orientation, gender, gender identity or expression, marital and civil partnership/union status, or other characteristics protected by law.
 
 These principles of diversity, inclusion, and equal access apply to all aspects of the Museum's operations, across all categories of individuals. Individuals should be able share in the Museum experience, free from biased or demeaning conduct or statements based on their personal characteristics.
 
