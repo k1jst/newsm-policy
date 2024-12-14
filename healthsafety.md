@@ -6,10 +6,8 @@ To maintain the positive health and safety culture to which the Museum aspires, 
 
 All staff are expected to:
 
-- To take reasonable care for their health and safety and the health and safety of anyone who may be affected by their actions or non- action at workTo cooperate with the Museum or other site user and comply with agreed safety arrangements. To not intentionally or recklessly interfere with or misuse anything provided in the interests of health, safety or welfare in pursuance of any of the relevant statutory provisions.
-
-To only use machinery, equipment, hazardous substances etc. that they have the competency to use safety and in accordance with safe systems of work.
-
-To report to their manager, the manager of the workspace or the HSU, any work situation representing a serious and imminent danger. To make safe such a work situation if possible.
-
-To report to their manager, the manager of the workspace or the HSU any shortcoming in health and safety protection arrangements.
+- To take reasonable care for their health and safety and the health and safety of anyone who may be affected by their actions or non- action at work
+- To cooperate with the Museum or other site user and comply with agreed safety arrangements. To not intentionally or recklessly interfere with or misuse anything provided in the interests of health, safety or welfare in pursuance of any of the relevant statutory provisions.
+- To only use machinery, equipment, hazardous substances etc. that they have the competency to use safety and in accordance with safe systems of work.
+- To report to their manager, the manager of the workspace or the HSU, any work situation representing a serious and imminent danger. To make safe such a work situation if possible.
+- To report to their manager, the manager of the workspace or the HSU any shortcoming in health and safety protection arrangements.
