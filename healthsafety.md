@@ -2,7 +2,7 @@
 
 > Everyone should strive to maintain a safe environment at the Wireless and Steam Museum. The welfare of vistors, volunteers, staff is of the utmost concern and should be top of mind at all times.
 
-To maintain the positive health and safety culture to which the Museum aspires, all volunteers and staff must be competent and have the knowledge and skills to discharge their health and safety responsibilities.  To this end, volunteers and staff are expected to acquire the information, instruction and training necessary to safely operate any and all equipment prior to utilization.
+To maintain the positive health and safety culture to which the Museum aspires, all volunteers and staff must be competent and have the knowledge and skills to discharge their health and safety responsibilities. Much of the equipment at the Wireless and Steam Museum can be extremely dangerous To this end, volunteers and staff are expected to acquire the information, instruction and training necessary to safely operate any and all equipment prior to utilization.
 
 All staff are expected to:
 
