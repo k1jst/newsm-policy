@@ -1,7 +1,7 @@
 - [Artifact Management](no)
 - [Conflict of Interest](no)
 - [Conservation Easement](no)
-- [Diversity and Non-Disrimination](no)
+- [Diversity and Non-Disrimination](deai)
 - [Events](no)
 - [Fiscal](no)
 - [Facilities](no)
