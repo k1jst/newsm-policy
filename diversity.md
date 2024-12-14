@@ -10,6 +10,6 @@ The Museum endeavors to provide accessibility wherever possible, and will contin
 
 Individuals who wish to request an accommodation should contact the Museum's Executive Director. The Museum strictly prohibits retaliation against anyone who, in good faith, reports a violation of this policy or participates in an investigation into a potential violation of this policy.
 
-#### History of Section
+#### History of 
 
 Adopted:
