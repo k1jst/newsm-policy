@@ -7,6 +7,7 @@
    The NEWSM values and respects the diversity of its visitors, members, staff, and volunteers and is committed to:
    - Making its collections and services available to the full range of audiences, respecting their diversity;
    - Recruiting and developing a diverse staff at all levels;
+   - Acting in accordance with the legislation and codes of practice which relate to the diversity and equality of its audiences and staff1; and
    - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, or Gender Identity or Expression
      1.
 
