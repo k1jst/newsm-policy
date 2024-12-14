@@ -14,7 +14,7 @@ All Volunteers and staff are expected to:
 - Acquire the information, instruction and training necessary to safely operate and navigate any and all equipment and associated safety protocols prior to utilization or maintenance of such equipment;
 
 
-- Cooperate with the Museum or other site user and comply with agreed safety arrangements;
+- Cooperate with the Museum or other site users and comply with agreed safety arrangements;
 - To not intentionally or recklessly interfere with or misuse tools, equipment, or materials;
 - To report to their manager, supervidor, or the Executive Director, any situation representing a serious hazard or that presents imminent danger. To make safe any such situation if possible, and otherwise to evacuate themselves and anyone else at risk from the hazardous or dangerous area.
 - To report to their manager, supervidor, or the Executive Director, any shortcoming in health and safety protection arrangements.
