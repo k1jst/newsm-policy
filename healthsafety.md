@@ -9,5 +9,5 @@ All staff are expected to:
 - Take reasonable care for their health and safety and the health and safety of anyone who may be affected by their actions or non-action at the Museum
 - To cooperate with the Museum or other site user and comply with agreed safety arrangements. To not intentionally or recklessly interfere with or misuse anything provided in the interests of health, safety or welfare in pursuance of any of the relevant statutory provisions.
 - To only use machinery, equipment, hazardous substances etc. that they have the competency to use safety and in accordance with safe systems of work.
-- To report to their manager, supervidor, or the Executive Director, any situation representing a serious hazard or that presents imminent danger. To make safe any such situation if possible, and to evacuate 
+- To report to their manager, supervidor, or the Executive Director, any situation representing a serious hazard or that presents imminent danger. To make safe any such situation if possible, and to evacuate themselves and anyone else from a dangerous area if not.
 - To report to their manager, the manager of the workspace or the HSU any shortcoming in health and safety protection arrangements.
