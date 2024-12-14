@@ -12,6 +12,7 @@
    The NEWSM recognises the following status as protected under Federal and Rhode Island Law:
    - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, and Gender Identity or Expression
      Thew NEWSM further recognises the following status as also protected under Rhode Island Employment Law:
+   - Conviction Status,
 
 ### Title II Of The Civil Rights Act (Public Accommodations)
 
