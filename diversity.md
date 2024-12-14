@@ -21,3 +21,7 @@
    - Where including full accessibility is not economically feasible, provide equivalent acccess accomodations through the use of technology.
 4. Assurance and Review
    The Directors require that the Executive Director, Lead Volunteers, Managers and Supervisors take steps to ensure that this policy is observed by all staff and volunteers in the course of their activities. This policy document will be reviewed from time to time and at least once every five years.
+
+History of Section:
+
+Adopted by t
