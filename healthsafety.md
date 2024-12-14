@@ -1,3 +1,3 @@
 # Health and Safety Policy
 
-> No one shoul
+> Everyone should strive to maintain a safe environment for
