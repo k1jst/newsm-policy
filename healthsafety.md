@@ -4,7 +4,7 @@
 
 To maintain the positive health and safety culture to which the Museum aspires, all volunteers and staff must be competent and have the knowledge and skills to discharge their health and safety responsibilities. Much of the equipment at the Wireless and Steam Museum can be extremely dangerous if safety is not the highest priority. To this end, volunteers and staff are expected to acquire the information, instruction and training necessary to safely operate and navigate any and all equipment and associated safety protocols prior to utilization or maintenance of such equipment.
 
-## Protect L
+## Ensure Safe Operation of Equipment
 
 - Take reasonable care for their health and safety and the health and safety of anyone who may be affected by their actions or non-action at the Museum
 - Cooperate with the Museum or other site user and comply with agreed safety arrangements. To not intentionally or recklessly interfere with or misuse anything provided in the interests of health, safety or welfare in pursuance of any of the relevant statutory provisions.
