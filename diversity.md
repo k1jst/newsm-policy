@@ -1,6 +1,6 @@
 # Diversity, Equality, Accessibility and Inlcusion
 
-> No one should be excluded from, denied the benefits of, or be subjected to discrimination under, any program or activity of the New England Wireless and Steam Museum.
+> No one should be excluded from, denied the benefits of, or be subjected to discrimination , any program or activity of the New England Wireless and Steam Museum.
 
 Diversity, inclusion, and equal access have been, and will continue to be, fundamental principles at The Wireless and Steam Museum, where access to the Museum's facilities, collection, opportunities, and experiences are offered without regard to personal characteristics such as race, color, religion, sex, age, national origin, disability, pregnancy, military or veteran status, sexual orientation, gender, gender identity or expression, marital and civil partnership/union status, or other characteristics protected by law.
 
