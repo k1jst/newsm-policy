@@ -8,7 +8,8 @@
    - Recruiting and developing a diverse staff at all levels;
    - Acting in accordance with the legislation and codes of practice which relate to the diversity and equality of its audiences and staff; and
    - Taking account of the views of its audiences and staff to develop and implement diversity and equality as part of future programs
-2. Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, or Gender Identity or Expression
+2. Protected Statuses
+   The NEWSM recognises the following status as protected under  Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, or Gender Identity or Expression
    1.
 
 ### Title II Of The Civil Rights Act (Public Accommodations)
