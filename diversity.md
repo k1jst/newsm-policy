@@ -11,8 +11,9 @@
 2. Protected Statuses
    The NEWSM acknowledges the following statuses as protected under Federal and Rhode Island Law and prohibits descrimination of any kind on the basis of them:
    - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, Gender Identity or Expression, and Retaliation
-     Thew NEWSM further recognises the following status as also protected under Rhode Island Employment Law:
-   - Conviction Status,
+     Thew NEWSM further recognises the following status as also protected under Rhode Island Employment Law and prohibits descrimination of any kind on the basis of them:
+   - Conviction Status
+     The NEWSM acknow
 
 ### Title II Of The Civil Rights Act (Public Accommodations)
 
