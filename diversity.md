@@ -1,1 +1,3 @@
-# Diversity, Equality and non-discrimination
+# Diversity, Equality and Non-Discrimination
+
+> Everyone will n
