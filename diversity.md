@@ -13,6 +13,8 @@
    - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, Gender Identity or Expression, and Retaliation
    - Employment: Conviction Status 
 
+   NEWSM acknowedges that further protections may be legsilated in the future and hereby incorportates those statuses as protected as they come into effect.
+
 
 3. Accessibility
    NEWSM recognizes barriers to accessibility exist in our facilities and programs and is committed to:
