@@ -23,4 +23,4 @@
 
 #### History of Section
 
-Adopted:  
+Adopted:
