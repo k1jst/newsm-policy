@@ -5,8 +5,10 @@
 1. Principals
 
    The NEWSM values and respects the diversity of its visitors, members, staff, and volunteers and is committed to:
-   1. \- Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, or Gender Identity or Expression
-      1. 
+   - Making its collections and services available to the full range of audiences,
+     respecting their diversity;
+   - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, or Gender Identity or Expression
+     1.
 
 ### Title II Of The Civil Rights Act (Public Accommodations)
 
