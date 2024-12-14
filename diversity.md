@@ -1,1 +1,1 @@
-# Diversity 
+# Diversity, Equality and non-discrimination
