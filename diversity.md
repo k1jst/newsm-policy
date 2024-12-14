@@ -4,4 +4,7 @@
 
 1. Protected Status
 
-   The following 
+   The following statuses are protected:
+   - Age
+   - Race
+   - 
