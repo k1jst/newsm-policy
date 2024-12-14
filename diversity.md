@@ -3,14 +3,13 @@
 > No one should be excluded from, denied the benefits of, or be subjected to discrimination under and program or activity of the New England Wireless and Steam Museum
 
 1. Principals
-
    The NEWSM values and respects the diversity of its visitors, members, staff, and volunteers and is committed to:
    - Making its collections and services available to the full range of audiences, respecting their diversity;
    - Recruiting and developing a diverse staff at all levels;
    - Acting in accordance with the legislation and codes of practice which relate to the diversity and equality of its audiences and staff; and
    - Taking account of the views of its audiences and staff to develop and implement diversity and equality as part of future programs
-   - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, or Gender Identity or Expression
-     1.
+2. Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, or Gender Identity or Expression
+   1.
 
 ### Title II Of The Civil Rights Act (Public Accommodations)
 
