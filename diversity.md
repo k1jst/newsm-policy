@@ -1,6 +1,10 @@
 # Diversity, Equality and Non-Discrimination
 
-> 1.  NEWSM values and respects the diversity of its visitors, members, staff, and volunteers and is committed to:
+> No one should be excluded from, denied the benefits of, or be subjected to discrimination under, any program or activity of the New England Wireless and Steam Museum.
+
+Diversity, inclusion, and equal access have been, and will continue to be, fundamental principles at The Wireless and Steam Museum, where access to the Museum's facilities, collection, opportunities, and experiences are offered without regard to personal characteristics such as race, color, religion, sex, age, national origin, disability, pregnancy, military or veteran status, sexual orientation, gender, gender identity or expression, marital and civil partnership/union status, or other characteristics protected by law.
+
+> 1. Princ NEWSM values and respects the diversity of its visitors, members, staff, and volunteers and is committed to:
 >    - Making its collections and services available to the full range of audiences, respecting their diversity;
 >    - Recruiting and developing a diverse staff at all levels;
 >    - Acting in accordance with the legislation and codes of practice which relate to the diversity and equality of its audiences and staff; and
