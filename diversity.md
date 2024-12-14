@@ -8,20 +8,12 @@
    - Recruiting and developing a diverse staff at all levels;
    - Acting in accordance with the legislation and codes of practice which relate to the diversity and equality of its audiences and staff; and
    - Taking account of the views of its audiences and staff to develop and implement diversity and equality as part of future programs
-2. Protected Statuses
-   NEWSM acknowledges the following statuses as protected under Federal and Rhode Island Law and prohibits descrimination of any kind on the basis of them:
-   - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, Gender Identity or Expression, and Retaliation
-   - Employment: Conviction Status 
-
-   NEWSM acknowedges that further protections may be legsilated in the future and hereby incorportates those statuses as protected as they come into effect.
-
-
-3. Accessibility
+2. Accessibility
    NEWSM recognizes barriers to accessibility exist in our facilities and programs and is committed to:
    - Assess and remove barriers to accessibility in all facility improvement projects;
    - Include miltimodal media to improve accessibility in all future exhibits and programs; and
    - Where including full accessibility is not economically feasible, provide equivalent acccess accomodations through the use of technology.
-4. Assurance and Review
+3. Assurance and Review
    The Directors require that the Executive Director, Lead Volunteers, Managers and Supervisors take steps to ensure that this policy is observed by all staff and volunteers in the course of their activities. This policy document will be reviewed from time to time and at least once every five years.
 
 #### History of Section
