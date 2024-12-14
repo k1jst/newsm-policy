@@ -6,7 +6,7 @@ Diversity, inclusion, and equal access are fundamental principles at The New Eng
 
 These principles of diversity, inclusion, and equal access apply to all aspects of the Museum's operations, across all categories of individuals. Individuals should be able share in the Museum experience, free from biased or demeaning conduct or statements based on their personal characteristics.
 
-The Museum endeavors to provide accessible access wherever possible, and will continue to make efforts to remove barriers to accessibility as part of all improvement projects. Whereasonable accommodations to members of the public, employees, and others, provided that such accommodation does not constitute an undue hardship on the Museum.
+The Museum endeavors to provide accessible access wherever possible, and will continue to make efforts to remove barriers to accessibility as part of all improvement projects. Wherever possible, multimodal multimedia will be provided to increase accessibility and adreasonable accommodations to members of the public, employees, and others, provided that such accommodation does not constitute an undue hardship on the Museum.
 
 Individuals who wish to request an accommodation should contact the Museum's Executive Director. The Museum strictly prohibits retaliation against anyone who, in good faith, reports a violation of this policy or participates in an investigation into a potential violation of this policy.
 
