@@ -4,7 +4,8 @@
 
 1. Principals
 
-   The NEWSM values and respects the diversity of its visitors, audiences, staff, and volunteers
+   The NEWSM values and respects the diversity of its visitors, members, staff, and volunteers and is committed to:
+2. 
    - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, or Gender Identity or Expression
    1. 
 
