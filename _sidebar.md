@@ -1,9 +1,12 @@
-
-- [Conflict of Interest]
-- [Diversity and Non-Disrimination]
-- [Health and Safety]
-- [Joint Ventures]
-- [Loan and Display]
-- [Volunteer Management]
-- [Whistleblower]
-- [Conservation Easement]
+- [Artifact Management](no)
+- [Conflict of Interest](no)
+- [Conservation Easement](no)
+- [Diversity and Non-Disrimination](no)
+- [Events](no)
+- [Fiscal](no)
+- [Facilities](no)
+- [Health and Safety](no)
+- [Joint Ventures](no)
+- [Loan and Display](no)
+- [Volunteer Management](no)
+- [Whistleblower](no)
