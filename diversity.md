@@ -16,7 +16,7 @@
      The NEWSM acknowedges that further protections may be extended under the law in the future and hereby incorportates those statuses as protected as well.
 3. Accessibility
    The NEWSM recognizes barriers to accessibility exist in our facilities and programs and is committed to:
-   - Assess and remove barriers to accessibility in all future facility improvement projects and program development;
+   - Assess and remove barriers to accessibility in all facility improvement projects;
    - Include miltimodal media for accessibility in all future exhibits and programs; and
    - Where accessibility is not economically feasible, provide alternative program accomodations in accessible spaces.
 4. Assurance and Review
