@@ -17,7 +17,7 @@
 3. Accessibility
    The NEWSM recognizes barriers to accessibility exist in our facilities and programs and is committed to:
    - Assess and remove barriers to accessibility in all future facility improvement projects and program development
-   - Include miltimodal media for accessibil
+   - Include miltimodal media for accessibility in all future exhibits and programs; and
    - Where accessibility is not economically feasible, provide alternative program accomodations in accessible spaces
 4. Assurance and Review
    The Directors require that the Executive Director, Lead Volunteers, Managers and Supervisors take steps to ensure that this policy is observed by all staff and volunteers in the course of their activities.
