@@ -15,7 +15,7 @@
    - Conviction Status
      The NEWSM acknowedges that further protections may be extended under the law in the future and hereby incorportates those statuses as protected as well.
 3. Accessibility
-   The NEWSM recognizes barriers to accessi
+   The NEWSM recognizes barriers to accessibility exist in our facilities and programs and
 4. Assurance and Review
    The Directors require that the Executive Director, Lead Volunteers, Managers and Supervisors take steps to ensure that this policy is observed by all staff and volunteers in the course of their activities.
    This policy document will be reviewed from time to time and at least once every five years.
