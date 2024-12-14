@@ -8,7 +8,7 @@
    - Making its collections and services available to the full range of audiences, respecting their diversity;
    - Recruiting and developing a diverse staff at all levels;
    - Acting in accordance with the legislation and codes of practice which relate to the diversity and equality of its audiences and staff; and
-   - Taking account of the views of its audiences and staff to develop and implement the diversity and equality schemes2 and procedures which will help
+   - Taking account of the views of its audiences and staff to develop and implement the diversity and equality and procedures which will help
      it achieve its objectives.
    - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, or Gender Identity or Expression
      1.
