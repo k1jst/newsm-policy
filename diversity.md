@@ -4,7 +4,7 @@
 
 1. Principals
 
-   The NEWSM 
+   The NEWSM values and respects the diversity of its 
    - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, or Gender Identity or Expression
    1. 
 
