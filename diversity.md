@@ -10,7 +10,7 @@
    - Taking account of the views of its audiences and staff to develop and implement diversity and equality as part of future programs
 2. Protected Statuses
    The NEWSM recognises the following status as protected under Federal and Rhode Island Law:
-   - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, and Gender Identity or Expression
+   - Race, Color, Religion, Ancestral Origin, Sex, Disability, Age, Sexual Orientation, Gender Identity or Expression, and Retaliation
      Thew NEWSM further recognises the following status as also protected under Rhode Island Employment Law:
    - Conviction Status,
 
