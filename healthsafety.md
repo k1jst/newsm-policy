@@ -8,10 +8,11 @@ To maintain the positive health and safety culture to which the Museum aspires, 
 
 All Volunteers and staff are expected to:
 
-- acquire the information, instruction and training necessary to safely operate and navigate any and all equipment and associated safety protocols prior to utilization or maintenance of such equipment.
-
-
 - Take reasonable care for their health and safety and the health and safety of anyone who may be affected by their actions or non-action at the Museum
+- 
+- Acquire the information, instruction and training necessary to safely operate and navigate any and all equipment and associated safety protocols prior to utilization or maintenance of such equipment;
+
+
 - Cooperate with the Museum or other site user and comply with agreed safety arrangements. To not intentionally or recklessly interfere with or misuse anything provided in the interests of health, safety or welfare in pursuance of any of the relevant statutory provisions.
 - To only use machinery, equipment, hazardous substances etc. that they have the competency to use safety and in accordance with safe systems of work.
 - To report to their manager, supervidor, or the Executive Director, any situation representing a serious hazard or that presents imminent danger. To make safe any such situation if possible, and otherwise to evacuate themselves and anyone else at risk from the hazardous or dangerous area.
