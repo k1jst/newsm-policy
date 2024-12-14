@@ -1,3 +1,3 @@
 # Health and Safety Policy
 
-> Everyone 
+> No one shoul
