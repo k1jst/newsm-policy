@@ -24,4 +24,4 @@
 
 #### History of Section
 
-Adopted by the Board: 
+Adopted:  
