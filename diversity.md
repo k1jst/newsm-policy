@@ -1,3 +1,3 @@
 # Diversity, Equality and Non-Discrimination
 
-> Everyone will n
+> No one should face
