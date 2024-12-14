@@ -1,3 +1,3 @@
 # Health and Safety Policy
 
-> Museum vistors, 
+> Everyone should
