@@ -3,7 +3,7 @@
 > No one should be excluded from, denied the benefits of, or be subjected to discrimination under and program or activity of the New England Wireless and Steam Museum
 
 1. Protected Statuses
-   - Race, Color, Religion, Ancestral Origin, Sex (inlcuding sexual harrassment and pregnancy status), Disability (including phsical and mental disabilities), Age, Sexual Orientation, 
+   - Race, Color, Religion, Ancestral Origin, Sex (inlcuding sexual harrassment and pregnancy status), Disability (including phsical and mental disabilities), Age, Sexual Orientation, Gender Identity or Expression, 
    1. 
 
 ### Title II Of The Civil Rights Act (Public Accommodations)
