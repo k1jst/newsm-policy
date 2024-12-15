@@ -19,3 +19,5 @@ All Volunteers and staff are expected to:
 - Report to their manager, supervidor, or the Executive Director, any situation representing a serious hazard or that presents imminent danger;
 - Make safe any such hazardous or dangerous situation if possible, and otherwise to evacuate themselves and anyone else at risk from the hazardous or dangerous area immediately;
 - To report to their manager, supervidor, or the Executive Director, any shortcoming in health and safety protection arrangements;
+
+## Supervised Operation
