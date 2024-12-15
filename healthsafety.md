@@ -4,6 +4,8 @@
 
 To maintain the positive health and safety culture to which the Museum aspires, all volunteers and staff must be competent and have the knowledge and skills to discharge their health and safety responsibilities. Much of the equipment at the Wireless and Steam Museum can be extremely dangerous if safety is not the highest priority. 
 
+## Health
+
 ## Ensure Safe Operations
 
 All volunteers and staff are expected to:
@@ -33,7 +35,3 @@ The Executive Director or a designated Supervisor authorized by the Executive Di
 ## Safety Procedures
 
 The Executive Director will undertake regular efforts to evaluate the safe operation practices of all collection equipment. Safe operational guidelines will be developed for all collection equipment that can present a hazard to volunteers, staff and visitors due to moving, heated, pressurized or energized parts. These safe operation guidelines must be reviewed regularly by qualified operators prior to operation of collection equipment.
-
-## Health Procedures
-
-All volunteers and staff are requested to stay home when they are not feeling well. The Museum hopes to maintain s
