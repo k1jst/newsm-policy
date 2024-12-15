@@ -23,7 +23,7 @@ The Executive Director or a designated Supervisor authorized by the Executive Di
 
 The Executive Director will undertake regular efforts to evaluate the safe operation practices of all collection equipment. Safe operational guidelines will be developed for all collection equipment that can present a hazard to volunteers, staff and visitors due to moving, heated, pressurized or energized parts. These safe operation guidelines must be reviewed regularly by qualified operators prior to operation of collection equipment.
 
-## Volunteer and Staff Respo Safe Operations
+## Volunteer and Staff Responsibilities
 
 All volunteers and staff are expected to:
 
@@ -38,3 +38,5 @@ All volunteers and staff are expected to:
 - Report to the Executive Director or Supervisor any situation representing a serious hazard or that presents imminent danger;
 - Make safe any hazardous or dangerous situation if possible, and otherwise evacuate themselves and anyone else at risk from the hazardous or dangerous area immediately; and
 - To report to the Executive Director or Supervisor any shortcoming in health and safety protection arrangements.
+
+## 
