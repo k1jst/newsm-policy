@@ -30,4 +30,4 @@ The Executive Director or a designated Supervisor authorized by the Executive Di
 
 ## Safety Procedures
 
-The Executive Director will undertake regular efforts to evaluate the safe operation practices of all collection equipment. Safe operational guidelines will be developed for all collection equipment that can present a hazard to v
+The Executive Director will undertake regular efforts to evaluate the safe operation practices of all collection equipment. Safe operational guidelines will be developed for all collection equipment that can present a hazard to volunteers, staff and visitors due to moving pa
