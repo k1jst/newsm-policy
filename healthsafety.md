@@ -11,7 +11,7 @@ All volunteers and staff are expected to:
 - Take reasonable care for their health and safety and the health and safety of anyone who may be affected by their actions or non-action;
 - Only use tools, machinery, equipment, hazardous substances etc. that they have the competency to use safely and in compliance with workplace regulations;
 - Utilize appopriate and necessary personal protective equipment whenever and wherever required to maintain safety and compliance with workplace regulations;
-- Acquire the information, instruction and training necessary to safely operate and navigate any and all tools, machinery, equipment, hazardous substances etc,  and associated safety protocols prior to utilization or maintenance of such tools, machinery, equipment or;
+- Acquire the information, instruction and training necessary to safely operate and navigate any and all tools, machinery, equipment, hazardous substances etc,  and associated safety protocols prior to utilization or maintenance on or with such tools, machinery, equipment or hazardous substances etc;
 
 
 - Cooperate with the Museum or other site users and comply with agreed safety arrangements;
