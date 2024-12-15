@@ -22,7 +22,8 @@ All volunteers and staff are expected to:
 
 ## Supervised Operation
 
-The Executive Director is responsible for ensuring that:
+The Executive Director or their designee is responsible for ensuring that:
 
+- Ope
 - No equipment is operated without the direct supervision of a qualified operator;
 - No equipment may be operated without sufficient volunteers or staff necessary to ensure that all visitors maintain the necessary safe distance from moving or energized parts of the equipment;
