@@ -4,7 +4,9 @@
 
 To maintain the positive health and safety culture to which the Museum aspires, all volunteers and staff must be competent and have the knowledge and skills to discharge their health and safety responsibilities. Much of the equipment at the Wireless and Steam Museum can be extremely dangerous if safety is not the highest priority. 
 
-## Health
+## Health Guidelines
+
+All volunteers and staff are requested to stay home when they are not feeling well. Volunteers and staff 
 
 ## Ensure Safe Operations
 
