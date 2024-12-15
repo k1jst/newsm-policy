@@ -23,4 +23,4 @@ All volunteers and staff are expected to:
 ## Supervised Operation
 
 - No equipment may be operated without the direct supervision of a qualified operator;
-- No equipment may be operated without enough volunteers to ensure that all visitors maintain the necessary safe distance from moving or energized parts of the equipment
+- No equipment may be operated without sufficient volunteers or staff necessary to ensure that all visitors maintain the necessary safe distance from moving or energized parts of the equipment;
