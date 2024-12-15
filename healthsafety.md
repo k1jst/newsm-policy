@@ -18,7 +18,7 @@ All volunteers and staff are expected to:
 - Not intentionally or recklessly interfere with or misuse tools, equipment, or materials;
 - Report to the Executive Director or Supervisor any situation representing a serious hazard or that presents imminent danger;
 - Make safe any hazardous or dangerous situation if possible, and otherwise evacuate themselves and anyone else at risk from the hazardous or dangerous area immediately; and
-- To report to their manager, supervisor, or the Executive Director, any shortcoming in health and safety protection arrangements.
+- To report to the their manager, supervisor, or the Executive Director, any shortcoming in health and safety protection arrangements.
 
 ## Supervised Operation of Collection Equipment
 
