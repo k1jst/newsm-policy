@@ -39,6 +39,6 @@ All volunteers and staff are expected to:
 - Make safe any hazardous or dangerous situation if possible, and otherwise evacuate themselves and anyone else at risk from the hazardous or dangerous area immediately; and
 - To report to the Executive Director or Supervisor any shortcoming in health and safety protection arrangements.
 
-## Safety and First Aid Equipment
+## Safety and First Aid Training and Equipment
 
-The Museum will provide all necessary personal protective equipment necessary for volunteers and staff to safely perform their duties. The Museum should also have the supplies necessary to provide immediate first aid assistance to anyone requiring it, including; at least one Automated External Defibrillator on premises, at least one OSHA qualified first aid kit in each workshop, and at least one emergency bleeding control kit in each workshop.
+The Museum will provide all necessary personal protective equipment necessary for volunteers and staff to safely perform their duties. The Museum should also have the supplies necessary to provide immediate first aid assistance to anyone requiring it, including; at least one Automated External Defibrillator on premises, at least one OSHA qualified first aid kit in each workshop, and at least one emergency bleeding control kit in each workshop. The Museum also encourages 
