@@ -30,4 +30,4 @@ The Executive Director or a designated Supervisor authorized by the Executive Di
 
 ## Safety Procedures
 
-The Execu
+The Executive Director will undertake regular efforts to evaluate the safe operation p
