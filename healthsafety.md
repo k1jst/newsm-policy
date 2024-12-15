@@ -8,7 +8,7 @@ To maintain the positive health and safety culture to which the Museum aspires, 
 
 Volunteers and staff must be mentally present and able to concentrate fully on their duties to ensure the safety of everyone at the Museum. The Museum also wishes to discourage the spread of communicable disease, particularly to those visiting the museum who may have higher risk factors for contracting a disease. In order to address these concerns, all visitiors, volunteers and staff are encouraged to stay home if they are sick or are not feeling well.
 
-## Supervised Operation of Collection Equipment
+## Supervised Operation of Steam Collection Equipment
 
 The Executive Director or a designated Supervisor authorized by the Executive Director is required to be present during the operation of all steam collection equipment, and they will be responsible for ensuring that:
 
@@ -17,6 +17,8 @@ The Executive Director or a designated Supervisor authorized by the Executive Di
 - No collection equipment is operated without the direct supervision of a qualified operator who will not only operate the equipment but also provide safe operation instructions to any volunteers, staff and/or visitors in the vacinity of the colection equipment during operation;
 - No collection equipment is operated without sufficient volunteers or staff necessary to ensure that all visitors maintain the necessary safe distance from all moving, dangerously heated, dangerously pressurized, or energized parts of the equipment; and
 - No collection equipment is operated where the capacity of the building is too high to ensure safe operation.
+
+## Superviser 
 
 ## Safety Procedures
 
