@@ -22,4 +22,4 @@ All Volunteers and staff are expected to:
 
 ## Supervised Operation
 
-- No steam equipment may be operated without the direct supervision of
+- No steam equipment may be operated without the direct supervision of a qualified operator
