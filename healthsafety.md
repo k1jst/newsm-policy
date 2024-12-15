@@ -21,3 +21,5 @@ All Volunteers and staff are expected to:
 - To report to their manager, supervidor, or the Executive Director, any shortcoming in health and safety protection arrangements;
 
 ## Supervised Operation
+
+- No steam equipment may be operated without the direct supervision of
