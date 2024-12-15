@@ -41,4 +41,4 @@ All volunteers and staff are expected to:
 
 ## Safety and First Aid Equipment
 
-The Wireless and Steam Museum will provide all necessary personal protective equipment necessary for volunteers and staff to safely perform their duties. The Museum should also have the supplies necessary to provide immediate first aid assistance to anyone requiring it, including; at least one Automated External Defibrillator on premises, at least one OSHA qualified first aid kit in each workshop, at least one emergency bleeding control kit in each workshop
+The Wireless and Steam Museum will provide all necessary personal protective equipment necessary for volunteers and staff to safely perform their duties. The Museum should also have the supplies necessary to provide immediate first aid assistance to anyone requiring it, including; at least one Automated External Defibrillator on premises, at least one OSHA qualified first aid kit in each workshop, and at least one emergency bleeding control kit in each workshop.
