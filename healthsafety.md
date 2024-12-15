@@ -41,4 +41,4 @@ All volunteers and staff are expected to:
 
 ## Safety and First Aid Equipment
 
-The Wireless and Steam Museum should be prepared to r
+The Wireless and Steam Museum should be prepared to provide immediate fist aid assitance 
