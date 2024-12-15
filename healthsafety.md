@@ -21,3 +21,19 @@ The Executive Director or a designated Supervisor authorized by the Executive Di
 ## Safety Procedures
 
 The Executive Director will undertake regular efforts to evaluate the safe operation practices of all collection equipment. Safe operational guidelines will be developed for all collection equipment that can present a hazard to volunteers, staff and visitors due to moving, heated, pressurized or energized parts. These safe operation guidelines must be reviewed regularly by qualified operators prior to operation of collection equipment.
+
+## Ensure Safe Operations
+
+All volunteers and staff are expected to:
+
+- Take reasonable care for their health and safety and the health and safety of anyone who may be affected by their actions or non-action;
+- Only use tools, machinery, equipment, hazardous substances etc. that they have the competency to use safely and in compliance with workplace regulations;
+- Utilize appopriate and necessary personal protective equipment whenever and wherever required to maintain safety and compliance with workplace regulations;
+- Acquire the information, instruction and training necessary to safely operate and navigate any and all tools, machinery, equipment, hazardous substances etc,  and review associated safety protocols prior to operation, utilization, or maintenance on or with such tools, machinery, equipment or hazardous substances etc;
+
+
+- Cooperate with the Museum or other site users and comply with agreed safety arrangements;
+- Not intentionally or recklessly interfere with or misuse tools, equipment, or materials;
+- Report to the Executive Director or Supervisor any situation representing a serious hazard or that presents imminent danger;
+- Make safe any hazardous or dangerous situation if possible, and otherwise evacuate themselves and anyone else at risk from the hazardous or dangerous area immediately; and
+- To report to the Executive Director or Supervisor any shortcoming in health and safety protection arrangements.
