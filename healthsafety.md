@@ -39,4 +39,6 @@ All volunteers and staff are expected to:
 - Make safe any hazardous or dangerous situation if possible, and otherwise evacuate themselves and anyone else at risk from the hazardous or dangerous area immediately; and
 - To report to the Executive Director or Supervisor any shortcoming in health and safety protection arrangements.
 
-## 
+## Safety and First Aid Equipment
+
+- 
