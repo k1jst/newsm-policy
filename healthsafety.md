@@ -6,7 +6,7 @@ To maintain the positive health and safety culture to which the Museum aspires, 
 
 ## Health Guidelines
 
-All volunteers and staff are requested to stay home when they are not feeling well. Volunteers and staff 
+All volunteers and staff are requested to stay home when they are not feeling well. Volunteers and staff should be mentally present and able to concentrate fully on their s
 
 ## Ensure Safe Operations
 
