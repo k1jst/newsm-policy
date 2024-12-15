@@ -41,4 +41,4 @@ All volunteers and staff are expected to:
 
 ## Safety and First Aid Equipment
 
-The Wireless and Steam Museum will provide all necessary personal protective equipment necessary for volunteers and staff to safely perform their dutiesshould be prepared to provide immediate fist aid assistance 
+The Wireless and Steam Museum will provide all necessary personal protective equipment necessary for volunteers and staff to safely perform their duties. should be prepared to provide immediate fist aid assistance 
