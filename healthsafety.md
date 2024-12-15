@@ -36,4 +36,4 @@ The Executive Director will undertake regular efforts to evaluate the safe opera
 
 ## Health Procedures
 
-All volunteers and staff are requested to stay home when they are not feeling well
+All volunteers and staff are requested to stay home when they are not feeling well. The Museum hopes to maintain s
