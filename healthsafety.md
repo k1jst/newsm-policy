@@ -20,10 +20,10 @@ All volunteers and staff are expected to:
 - Make safe any hazardous or dangerous situation if possible, and otherwise evacuate themselves and anyone else at risk from the hazardous or dangerous area immediately; and
 - To report to their manager, supervisor, or the Executive Director, any shortcoming in health and safety protection arrangements.
 
-## Supervised Operation of
+## Supervised Operation of Collection Equipment
 
 The Executive Director or a designated Supervisor authorized by the Executive Director is required to be present during the operation of all collection equipmment, and they will be responsible for ensuring that:
 
 - All collection equipment operators are trained and qualified to operate equipment in a manner that ensures the safety of vistors, volunteers, staff and the collection;
-- No collection equipment is operated without the direct supervision of a qualified operator;
-- No equipment is operated without sufficient volunteers or staff necessary to ensure that all visitors maintain the necessary safe distance from moving or energized parts of the equipment;
+- No collection equipment is operated without the direct supervision of a qualified operator; and
+- No collection equipment is operated without sufficient volunteers or staff necessary to ensure that all visitors maintain the necessary safe distance from moving or energized parts of the equipment.
