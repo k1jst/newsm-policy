@@ -23,4 +23,4 @@ All Volunteers and staff are expected to:
 ## Supervised Operation
 
 - No steam equipment may be operated without the direct supervision of a qualified operator;
-- No steam equipment may be operated without enough volunteers to ensure that all visitors 
+- No steam equipment may be operated without enough volunteers to ensure that all visitors maintain the necessary safe distance from moving 
