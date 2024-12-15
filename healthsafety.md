@@ -26,8 +26,8 @@ The Executive Director or a designated Supervisor authorized by the Executive Di
 
 - All collection equipment operators are trained and qualified to operate equipment in a manner that ensures the safety of vistors, volunteers, staff and the collection;
 - No collection equipment is operated without the direct supervision of a qualified operator;
-- No collection equipment is operated without sufficient volunteers or staff necessary to ensure that all visitors maintain the necessary safe distance from all moving, dangerously heated, dangerously pressurized, or energized parts of the equipment;
-- No collection equipment is operated where the capacity of the buildin
+- No collection equipment is operated without sufficient volunteers or staff necessary to ensure that all visitors maintain the necessary safe distance from all moving, dangerously heated, dangerously pressurized, or energized parts of the equipment; and
+- No collection equipment is operated where the capacity of the building is too high to ensure safe operation.
 
 ## Safety Procedures
 
