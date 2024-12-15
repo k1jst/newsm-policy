@@ -1,6 +1,6 @@
 # Health and Safety Policy
 
-> Everyone should strive to maintain a safe environment at the Wireless and Steam Museum. The welfare of vistors, volunteers, staff is of the utmost concern and should be top of mind at all times.
+> Everyone should strive to maintain a safe environment at the New England Wireless and Steam Museum. The welfare of vistors, volunteers, staff is of the utmost concern and should be top of mind at all times.
 
 To maintain the positive health and safety culture to which the Museum aspires, all volunteers and staff must be competent and have the knowledge and skills to discharge their health and safety responsibilities. Much of the equipment at the Wireless and Steam Museum can be extremely dangerous if safety is not the highest priority. 
 
