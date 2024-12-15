@@ -6,10 +6,10 @@ To maintain the positive health and safety culture to which the Museum aspires, 
 
 ## Ensure Safe Operations
 
-All Volunteers and staff are expected to:
+All volunteers and staff are expected to:
 
 - Take reasonable care for their health and safety and the health and safety of anyone who may be affected by their actions or non-action;
-- Only use machinery, equipment, hazardous substances etc. that they have the competency to use safely and in compliance with workplace regulations;
+- Only use tools, machinery, equipment, hazardous substances etc. that they have the competency to use safely and in compliance with workplace regulations;
 - Utilize appopriate and necessary personal protective equipment whenever and wherever required to maintain safety and compliance with workplace regulations;
 - Acquire the information, instruction and training necessary to safely operate and navigate any and all equipment and associated safety protocols prior to utilization or maintenance of such equipment;
 
