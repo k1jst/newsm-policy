@@ -16,7 +16,7 @@ All volunteers and staff are expected to:
 
 - Cooperate with the Museum or other site users and comply with agreed safety arrangements;
 - Not intentionally or recklessly interfere with or misuse tools, equipment, or materials;
-- Report to their manager, supervisor, or the Executive Director, any situation representing a serious hazard or that presents imminent danger;
+- Report to the Executive Director or Supervisor  manager, supervisor, or the Executive Director, any situation representing a serious hazard or that presents imminent danger;
 - Make safe any hazardous or dangerous situation if possible, and otherwise evacuate themselves and anyone else at risk from the hazardous or dangerous area immediately; and
 - To report to their manager, supervisor, or the Executive Director, any shortcoming in health and safety protection arrangements.
 
