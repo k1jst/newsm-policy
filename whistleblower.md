@@ -2,7 +2,7 @@
 
 >No one should face retaliation or unfair consequences for raising concerns suspecting or alleging fraud, discrimination, or any violation of law, policy, or procedure so long as they have reasonable grounds to justify them.
 
-Everyone involved in the New England Wireless and Steam Museum mst observe high standards of business and personal ethics in the conduct of their duties and responsibilities. As volunteers, employees and representatives of the Museum, we must practice honesty and integrity in fulfilling our responsibilities and comply with all applicable laws and regulations.
+Everyone involved in the New England Wireless and Steam Museum must observe high standards of business and personal ethics in the conduct of their duties and responsibilities. As volunteers, employees directors, and representatives of the Museum, we must practice honesty and integrity in fulfilling our responsibilities and comply with all applicable laws and regulations.
 
 ## Reporting Responsibility
 This Whistleblower Policy is intended to encourage and enable employees, volunteers, and others to raise serious concerns internally so that the Museum can address and correct inappropriate conduct and actions. It is the responsibility of all board members, officers, employees and volunteers to report concerns about violations of the Museum’s code of ethics or suspected violations of law or regulations that govern Museum operations.
