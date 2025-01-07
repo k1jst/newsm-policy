@@ -8,6 +8,6 @@ These principles of diversity, inclusion, and equal access apply to all aspects 
 
 The Museum endeavors to provide accessibility wherever possible, and will continue to make efforts to remove barriers to accessibility as part of all improvement projects. Wherever possible, multimodal multimedia will be provided as part of our exhibits and programs to increase accessibility. The Museum will make every effort to provide reasonable accommodations to members of the public, employees, and others, provided that such accommodation does not constitute an undue hardship on the Museum.
 
-Individuals who wish to request accommodation should contact the Museum's Executive Director. The Museum strictly prohibits retaliation against anyone who, in good faith, reports a violation of this policy or participates in an investigation into a potential violation of this policy.
+Individuals who wish to request accommodation should contact the Museum's Executive Director.
 
 Adopted:
