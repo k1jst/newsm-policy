@@ -8,10 +8,9 @@ Everyone involved in the New England Wireless and Steam Museum must observe high
 This Whistleblower Policy is intended to encourage and enable employees, volunteers, and others to raise serious concerns internally so that the Museum can address and correct inappropriate conduct and actions. It is the responsibility of all board members, officers, employees and volunteers to report concerns about violations of the Museum’s code of ethics or suspected violations of law or regulations that govern Museum operations.
 
 ## No Retaliation
-It is contrary to the values of the Museum for anyone to retaliate against any board member, officer, employee or volunteer who in good faith reports an ethics violation, or a suspected violation of law, such as a complaint of discrimination, or suspected fraud, or suspected violation of any regulation governing the operations of the Museum. An employee who retaliates against someone who has reported a violation in good faith is subject to discipline up to and including termination of employment.
+It is contrary to the values of the Museum for anyone to retaliate against any board member, officer, employee or volunteer who in good faith reports, or participates in an investigation into a potential violation of, an ethics violation, or a suspected violation of law, such as a complaint of discrimination, or suspected fraud, or suspected violation of any regulation governing the operations of the Museum. Retailiation by anyone involved with the museum will be viewed as a serious disciplinary offense. An employee who retaliates against someone who has reported a violation in good faith is subject to discipline up to and including termination of employment.
 
 ## Reporting Procedure
-
 The Museum has an open door policy and suggests that employees and volunteers share their questions, concerns, suggestions or complaints with their supervisor. If you are not comfortable speaking with your supervisor or you are not satisfied with your supervisor’s response, you are encouraged to speak with the Executive Director. Supervisors and managers are required to report complaints or concerns about suspected ethical and legal violations in writing to the Executive Director, who has the responsibility to investigate all reported complaints. 
 
 # Compliance Officer
