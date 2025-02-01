@@ -1,5 +1,5 @@
 - [Artifact Management](no)
-- [Conflict of Interest](no)
+- [Conflict of Interest](coi.md)
 - [Conservation Easement](no)
 - [Diversity and Non-Disrimination](no)
 - [Events](no)
